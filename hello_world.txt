@@ -1,0 +1,2 @@
+Hello, World!
+I am currently studying The Odin Project and following the steps.
